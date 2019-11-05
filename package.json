@@ -1,6 +1,7 @@
 {
-  "name": "vue-template",
-  "version": "0.1.0",
+  "name": "{{projectName}}",
+  "version": "{{version}}",
+  "author": "{{author}}",
   "private": true,
   "scripts": {
     "start": "npm run serve",
